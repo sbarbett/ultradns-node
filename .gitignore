@@ -6,6 +6,5 @@ node_modules/**
 
 # Exclude some file types
 *.csv
-*.json
 *.conf
 *.html
