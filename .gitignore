@@ -1,0 +1,11 @@
+# Exclude this annoying macOS file
+.DS_Store
+
+# Exclude zones directories
+node_modules/**
+
+# Exclude some file types
+*.csv
+*.json
+*.conf
+*.html
