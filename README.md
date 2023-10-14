@@ -1,4 +1,4 @@
-# UltraDNS Node Client
+# ultradns-node
 
 A Node.js client for interacting with the UltraDNS API.
 
