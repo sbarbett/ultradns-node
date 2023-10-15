@@ -3,6 +3,7 @@
 
 # Exclude zones directories
 node_modules/**
+.idea/**
 
 # Exclude some file types
 *.csv
