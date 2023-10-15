@@ -2,7 +2,7 @@
 
 const yargs = require('yargs/yargs');
 const { hideBin } = require('yargs/helpers');
-const UltraApi = require('../src/ultradns-node/udns');
+const UltraApi = require('../src/ultradns-node');
 
 async function createZone(client, domain) {
     const accountData = await client.get("/accounts");
